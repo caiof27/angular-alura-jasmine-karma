@@ -14,4 +14,4 @@ import { PhotoBoardService } from './services/photo-board.service';
   exports: [PhotoBoardComponent],
   providers: [PhotoBoardService]
 })
-export class PhotoBoardmodule {}
+export class PhotoBoardModule {}

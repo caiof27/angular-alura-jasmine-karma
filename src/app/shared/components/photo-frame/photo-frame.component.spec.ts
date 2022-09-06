@@ -75,10 +75,5 @@ describe(PhotoFrameComponent.name, () => {
     const img: HTMLImageElement = fixture.nativeElement.querySelector('img');
     expect(img.getAttribute('src')).toBe(src);
     expect(img.getAttribute('alt')).toBe(description);
-<<<<<<< HEAD
   });
 });
-=======
-  })
-})
->>>>>>> parent of 96877fb (Modulo 3)
